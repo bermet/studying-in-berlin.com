@@ -1,0 +1,15 @@
+ul.nav.navbar-nav > li.dropdown {
+	width: 20%;
+}
+
+ul.nav.navbar-nav > li.dropdown > a.dropdown-toggle {
+	text-align: center;
+}
+
+ul.nav.navbar-nav > li.dropdown > ul.dropdown-menu {
+	width: 100%;
+}
+
+ul.nav.navbar-nav {
+	float: none;
+}
